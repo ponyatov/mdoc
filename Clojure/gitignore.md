@@ -1,0 +1,7 @@
+# .gitignore
+#Clojure 
+
+```
+/target/
+/.lein*
+```
