@@ -1,0 +1,4 @@
+#!/bin/sh
+git pull -v
+obsidian obsidian://open?path=`pwd` &
+git gui &

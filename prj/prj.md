@@ -1,0 +1,12 @@
+![[prj/git#init]]
+![[prj/metarc]]
+![[prj/filetree]]
+![[prj/giti]]
+![[prj/vscode]]
+![[prj/apt]]
+![[prj/mk]]
+![[prj/ini]]
+![[prj/install]]
+![[prj/update]]
+![[prj/git#pushadow]]
+

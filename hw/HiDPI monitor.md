@@ -1,0 +1,1 @@
+# [[HiDPI]] monitor

@@ -1,0 +1,3 @@
+# tablet
+also: [[laptop]]
+
