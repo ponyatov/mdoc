@@ -1,0 +1,4 @@
+# HTTP/method
+
+## [[GET]]
+## [[POST]]
