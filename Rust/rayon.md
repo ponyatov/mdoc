@@ -1,0 +1,2 @@
+# `rayon`
+## data-parallelism library
