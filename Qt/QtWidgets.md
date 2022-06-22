@@ -1,0 +1,6 @@
+# QtWidgets
+#Qt
+
+- [[QApplication]]
+- [[QLabel]]
+
