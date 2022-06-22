@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "0fa38df7c066ea21",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b11c25c081bb6de",
+        "type": "leaf",
+        "dimension": 44.65408805031446,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "2e8902799cefa988"
+      },
+      {
+        "id": "c1f6c75125967c22",
+        "type": "leaf",
+        "dimension": 55.34591194968554,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2e8902799cefa988"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bd06e63b1d40343",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d5671f64ef0fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ffa72bfbd5a181e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7af3499cbb04689d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "readme.md",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.99999809265137
+  },
+  "right": {
+    "id": "82361b569a9937a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea7a73f80595382e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "962e73095e7479a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3b11c25c081bb6de",
+  "lastOpenFiles": [
+    "README.md",
+    "Segregation/README.md",
+    "ASTA/README.md",
+    "Apache/check.md",
+    "Dmitry Ponyatov.md",
+    "WP/Debian.md",
+    "Apache/Apache.md",
+    "WP/tutorial.md",
+    "WP/WordPress.md",
+    "WordPress.com.md"
+  ]
+}
