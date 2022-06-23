@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "index.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "index.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "readme.md",
+                "query": "index.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b11c25c081bb6de",
+  "active": "c1f6c75125967c22",
   "lastOpenFiles": [
+    "index.md",
     "README.md",
     "Segregation/README.md",
     "ASTA/README.md",
@@ -112,7 +113,6 @@
     "WP/Debian.md",
     "Apache/Apache.md",
     "WP/tutorial.md",
-    "WP/WordPress.md",
-    "WordPress.com.md"
+    "WP/WordPress.md"
   ]
 }
