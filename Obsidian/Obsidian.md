@@ -8,3 +8,4 @@ https://obsidian.md/
 
 
 [[Obsidian/book]]
+[[Obsidian/Debian10]]
