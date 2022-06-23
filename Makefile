@@ -8,8 +8,8 @@ BRANCH = $(shell git rev-parse --abbrev-ref HEAD)
 
 # merge
 MERGE  = Makefile README.md
-MERGE += el hw Arduino RTOS
-MERGE += VM
+MERGE += el hw Arduino RTOS STM32
+MERGE += VM Linux JS WP Cpp Java Python
 MERGE += bk85
 
 pub:
@@ -17,6 +17,7 @@ pub:
 	git checkout $@
 	git pull -v
 	git checkout shadow -- $(MERGE)
+	git checkout .obsidian
 
 shadow:
 	git push -v
