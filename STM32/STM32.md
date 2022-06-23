@@ -1,7 +1,14 @@
 # STM32
-[[Cortex-M]]
-[[arm-none-eabi]]
 
+## arch
+- [[Cortex-M]]
+	- [[arm-none-eabi]]
+
+## hw
+
+- [[MiniSat]]
+
+## STM32F
 - [[STM32F0]]
 - [[STM32F1]]
 	- [[STM32F102]]
@@ -9,4 +16,5 @@
 - [[STM32F3]]
 - [[STM32F4]]
 
-
+## [[CubeMX]]
+## [[CubeIDE]]
