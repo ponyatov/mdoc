@@ -9,3 +9,6 @@ https://obsidian.md/
 
 [[Obsidian/book]]
 [[Obsidian/Debian10]]
+
+
+[[second brain]]
