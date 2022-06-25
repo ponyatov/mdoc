@@ -8,3 +8,8 @@ sudo apt install -yu wordpress
 ```
 
 ![[Apache/check]]
+
+## Debian 10
+
+https://freehost.com.ua/faq/articles/ustanovka-wordpress-na-debian-10-instruktsija/
+

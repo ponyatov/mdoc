@@ -10,7 +10,7 @@ BRANCH = $(shell git rev-parse --abbrev-ref HEAD)
 MERGE  = Makefile README.md
 MERGE += hw Arduino RTOS STM32
 MERGE += VM Linux JS WP Cpp MinGW Java Python
-MERGE += el bk85 ProsKit
+MERGE += el bk85 tools
 MERGE += Obsidian psy Zettel
 MERGE += DB
 
