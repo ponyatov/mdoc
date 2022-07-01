@@ -1,0 +1,3 @@
+# [[STM32F100]]RBT6B
+
+devboard: [[STM32VLDISCOVERY]]

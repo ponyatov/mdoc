@@ -1,20 +1,21 @@
 # STM32
 
+# микроконтроллеры STM32
+## [[Cortex-M]]
+
+## [[STM32F]]
+## [[STM32H]]
+
+## отладочные платы [[DISCOVERY]]
+
+
 ## arch
 - [[Cortex-M]]
 	- [[arm-none-eabi]]
 
 ## hw
 
-- [[MiniSat]]
-
-## STM32F
-- [[STM32F0]]
-- [[STM32F1]]
-	- [[STM32F102]]
-	- [[STM32F103]]
-- [[STM32F3]]
-- [[STM32F4]]
+## [[STM32/MiniSat]]
 
 ## [[CubeMX]]
 ## [[CubeIDE]]

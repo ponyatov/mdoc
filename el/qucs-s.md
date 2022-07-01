@@ -3,9 +3,8 @@
 ### форк [[qucs]]
 
 - [20140927-03 Qucs Использование свободного ПО для моделирования электронных схем в учебном процессе](https://www.youtube.com/watch?v=XEKRtP8cWIc)
-- **https://download.opensuse.org/repositories/home:/ra3xdh/**
 
-https://ra3xdh.github.io/
+## about
 
 Qucs-S is a spin-off of the [Qucs](http://qucs.github.io/) cross-platform circuit simulator. "S" letter indicates SPICE. The purpose of the Qucs-S subproject is to use free SPICE circuit simulation kernels with the Qucs GUI. It merges the power of SPICE and the simplicity of the Qucs GUI. Qucs intentionally uses its own SPICE incompatible simulation kernel Qucsator. It has advanced RF and AC domain simulation features, but most of the existing industrial SPICE models are incompatible with it. Qucs-S is not a simulator by itself, but it requires to use a simulation backend with it. The schematic document format of Qucs and Qucs-S are fully compatible. Qucs-S allows to use the following simulation kernels with it:
 
@@ -14,6 +13,37 @@ Qucs-S is a spin-off of the [Qucs](http://qucs.github.io/) cross-platform circui
 -   [SpiceOpus](http://spiceopus.si/) is developed by the Faculty of Electrical Engineering of the Ljubljana University. It based on the SPICE-3f5 code
 -   Qucsator as backward compatible
 
+## install
+- https://ra3xdh.github.io/
+- [[Debian/10]]: https://download.opensuse.org/repositories/home:/ra3xdh/Debian_10/
+- [[Debian/11]]: https://download.opensuse.org/repositories/home:/ra3xdh/Debian_11/
+
+## configure
+
+```shell
+$ qucs-s
+```
+
+Моделирование -> Select default simulator
+Default simulator -> Ngspice
+Ngspice executable location -> ngspice
+	- `/usr/bin/ngspice`
+	- `C:/SPICE/Spice64/bin/ngspice`
+[Apply changes]
+
+![[qucs_ngspice.png]]
+
+![[libcad]]
+
+![[qucs/начальная настройка]]
+
+![[KiCAD/проект]]
+
+## tutorial
+
+- [Qucs. Начало работы (0.0.19)](https://youtu.be/d3VsmT2pAOc)
+
+![[el/делитель напряжения]]
 
 ## Publications
 

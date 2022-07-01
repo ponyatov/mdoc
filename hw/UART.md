@@ -1,1 +1,2 @@
-# serial / UART
+# UART
+## последовательный порт (serial)

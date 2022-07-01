@@ -1,19 +1,34 @@
 # SPICE
 
+![[ngspice#about]]
+
+## simulations
+- [[DC]], 
+- [[AC]], and 
+- [[transient simulation]], 
+- [[Fourier-analysis]] and 
+- [[sensitivity analysis]], plus a significant number of 
+- extra simulation and 
+- device model extensions
+
 
 ## Implementations
 
-[[ngspice]]
+### [[ngspice]]
+
+also:
+- [[SPICE3f5]]
+- [[Cider 1b1]]
+- [[XSPICE]]
+
+## GUI/Shell
+- [[oregano]]
+- [[qucs-s]]
+- [[KiCAD]]
 
 ## [[book|Books]]
 https://bitbucket.org/ponyatov/spice/
 
 [[bib/Electronix/Analog#SPICE]]
 
-## Shell
-
-[[oregano]]
-
 ## [[SPICE/models]]
-
-## [[qucs]]

@@ -13,6 +13,7 @@ MERGE += VM Linux JS WP Cpp MinGW Java Python
 MERGE += el bk85 tools
 MERGE += Obsidian psy Zettel
 MERGE += DB
+MERGE += icons
 
 pub:
 	git push -v

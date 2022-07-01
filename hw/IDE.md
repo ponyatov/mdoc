@@ -1,0 +1,2 @@
+# IDE
+## [[IDC#Common layouts]]
